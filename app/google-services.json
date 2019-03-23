@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "762724949173",
+    "firebase_url": "https://tutorial-3adf4.firebaseio.com",
+    "project_id": "tutorial-3adf4",
+    "storage_bucket": "tutorial-3adf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762724949173:android:ef5394814e978851",
+        "android_client_info": {
+          "package_name": "com.example.andresrobert.tutorial1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762724949173-69bdtt2lnh7rnuisj6gio1evdlteacpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQr6rLA_M9KErv7Oc-0mDPAPhExG2Zw7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
